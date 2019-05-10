@@ -6,8 +6,8 @@ const router = new SwaggerRouter()
 
 // swagger docs avaliable at http://localhost:3300/swagger-html
 router.swagger({
-    title: 'Koa Server Test',
-    description: 'Koa Server Test API DOC',
+    title: 'Koa Server First',
+    description: 'Koa Server First API DOC',
     version: '1.0.0',
 
     // [optional] default is root path.
